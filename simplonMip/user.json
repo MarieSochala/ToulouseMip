@@ -1,0 +1,19 @@
+{ "users" :	[
+	{
+	"id": "seb",
+	"portrait": "http://lorempixel.com/200/200/?1"
+	},
+	{
+	"id": "marie",
+	"portrait": "http://lorempixel.com/200/200/?2"
+	},
+	{
+		"id": "seb",
+		"portrait": "http://lorempixel.com/200/200/?3"
+		},
+		{
+		"id": "marie",
+		"portrait": "http://lorempixel.com/200/200/?4"
+		}
+				]
+	}
